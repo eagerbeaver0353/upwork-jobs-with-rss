@@ -1,0 +1,42 @@
+// Lancy custom theme - variable overrides
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+$font-family-sans-serif: 'Inter', sans-serif;
+
+$theme-colors: (
+    "primary": #1E5EFF ,
+    "secondary": #D9E4FF,
+    "light": #F5F6FA,
+    "dark": #131523,
+    "danger": #F0142F,
+    "success": #06A561,
+    "nav": #E6E9F4,
+    "navborder": #979797,
+    "label": #797E97,
+    "input": #A1A7C4,
+    "dropdown": #717598
+);
+
+$theme-colors: map-remove($theme-colors, "info", "warning");
+
+$grays: (
+    "100": #F5F6FA,
+    "200": #E6E9F4,
+    "300": #D7DBEC,
+    "400": #D9E1EC,
+    "500": #A1A7C4,
+    "600": #7E84A3,
+    "700": #5A607F,
+    "800": #333752,
+    "900": #131523
+  );
+
+  $border-color: #D9E1EC;
+  $input-color: #A1A7C4;
+  $input-placeholder-color: #A1A7C4;
+  $input-border-color: #D9E1EC; 
+
+//Boostrap and its default variables
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+

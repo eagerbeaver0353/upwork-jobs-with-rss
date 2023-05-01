@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="34px" viewBox="0 0 33 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Mark</title>
+    <g id="11.-Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Default-Navigation" transform="translate(-17.000000, -21.000000)">
+            <g id="Default-Left-Navigation">
+                <g id="Mark" transform="translate(17.000000, 21.000000)">
+                    <rect id="Rectangle" fill="#4F81FF" x="1" y="1" width="31" height="31" rx="3"></rect>
+                    <g id="Group" transform="translate(16.353350, 17.132233) rotate(-45.000000) translate(-16.353350, -17.132233) translate(3.853350, 6.632233)" fill="#FFFFFF">
+                        <g id="Group-3" transform="translate(0.135815, 0.092021)">
+                            <rect id="Rectangle" x="6.69445744" y="0" width="10.4981264" height="1.21717408"></rect>
+                            <rect id="Rectangle" x="6.69445744" y="4.45029273" width="10.4981264" height="1.21717408"></rect>
+                            <rect id="Rectangle" x="6.69445744" y="13.3508782" width="10.4981264" height="1.21717408"></rect>
+                            <rect id="Rectangle" x="6.69445744" y="17.8011709" width="10.4981264" height="1.21717408"></rect>
+                            <rect id="Rectangle" x="0" y="8.97665884" width="23.8870413" height="1.21717408"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

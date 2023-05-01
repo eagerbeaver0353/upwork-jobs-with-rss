@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>color</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00-General-/-01-Icons-/-02-Common-/-07-Bookmark" transform="translate(-5.000000, -2.000000)" fill="#7E84A3">
+            <path d="M17,2 C18.1045695,2 19,2.88935925 19,3.98643949 L19,21.0067419 C19,21.555282 18.5522847,22 18,22 C17.6952421,22 17.4071179,21.8619313 17.2173989,21.6250446 L12,15.1105006 L6.78260105,21.6250446 C6.43879078,22.0543327 5.80969506,22.1255159 5.37747643,21.7840367 C5.13897261,21.5956041 5,21.3094334 5,21.0067419 L5,3.98643949 C5,2.88935925 5.8954305,2 7,2 L17,2 Z M17,4 L7,4 L7,18.271 L12,11.9872702 L17,18.273 L17,4 Z" id="color"></path>
+        </g>
+    </g>
+</svg>

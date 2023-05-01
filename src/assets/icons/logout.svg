@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>color</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00-General-/-01-Icons-/-01-Actions-/-03-Remove-rounded" transform="translate(-2.000000, -2.000000)" fill="#7E84A3">
+            <path d="M14,2 C20.627417,2 26,7.372583 26,14 C26,20.627417 20.627417,26 14,26 C7.372583,26 2,20.627417 2,14 C2,7.372583 7.372583,2 14,2 Z M14,4.4 C8.6980664,4.4 4.4,8.6980664 4.4,14 C4.4,19.3019336 8.6980664,23.6 14,23.6 C19.3019336,23.6 23.6,19.3019336 23.6,14 C23.6,8.6980664 19.3019336,4.4 14,4.4 Z M18.8,12.8 C19.4627417,12.8 20,13.3372583 20,14 C20,14.6627417 19.4627417,15.2 18.8,15.2 L9.2,15.2 C8.5372583,15.2 8,14.6627417 8,14 C8,13.3372583 8.5372583,12.8 9.2,12.8 L18.8,12.8 Z" id="color"></path>
+        </g>
+    </g>
+</svg>

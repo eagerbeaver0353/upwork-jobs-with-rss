@@ -1,0 +1,134 @@
+div .search-icon::before {
+    position: absolute;
+    background: url('../assets/icons/search.svg') center / contain no-repeat;
+    content: "";
+    left: 25px;
+    right: 0px;
+    top: 25px;
+    bottom: 0px;
+    width: 20px;
+    z-index: 1;
+}
+
+div .dropdown-icon::after {
+    position: absolute;
+    background: url('../assets/icons/dropdown.svg') center / contain no-repeat;
+    content: "";
+    left: 85%;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 15px;
+    z-index: 1;
+}
+
+div .search-filter-icon::after {
+    position: absolute;
+    background: url('../assets/icons/search.svg') center / contain no-repeat;
+    content: "";
+    left: 85%;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 15px;
+    z-index: 1;
+}
+
+.btn {
+  color: #aab0cc; 
+}
+
+.btn:focus, .btn.focus {
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 0.1rem #717598;
+          box-shadow: 0 0 0 0.1rem #717598;
+}
+
+.btn:hover {
+  color: #717598;
+}
+
+.form-control:focus {
+  box-shadow: 0 0 0 0.1rem #717598;
+}
+
+#sortBy .dropdown {
+    height: 50px;
+    width: 100%;
+}
+
+#filter .dropdown {
+    height: 38px;
+    width: 100%;
+}
+
+#filter .btn {
+    font-size: 0.875rem;
+    color: #aab0cc;
+}
+
+#filter .dropdown-item {
+    font-size: 0.875rem;
+}
+
+.filter-search {
+    font-size: 0.875rem;
+    color: #aab0cc;
+}
+
+.dropdown-menu {
+    padding: 0;
+    width: 100%;
+}
+
+.dropdown-item {
+    color: #717598;
+    text-align: left;
+    padding: 0.5rem 4rem 0.5rem 1rem;
+}
+
+.slider {
+  width: auto !important; 
+  padding: 0 !important;
+}
+
+.slider-item {
+  padding: 0.5rem 1rem 0.5rem 1rem !important;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+  color: #1E5EFF;
+  background-color: #ecf2ff;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #ecf2ff;
+}
+
+.dropdown-item.disabled, .dropdown-item:disabled {
+  color: #717598;
+}
+
+.form-check-label {
+  color: #717598;
+}
+
+.form-check-label:hover, .form-check:focus {
+  color:  #1E5EFF;
+}
+
+.job-item {
+  color:  #717598;
+  font-size: 0.875rem; 
+}
+
+
+
+
+
+
+
+
+
+
+ 
